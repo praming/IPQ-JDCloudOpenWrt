@@ -80,3 +80,5 @@
 <a href="#readme">
 <img src="https://img.shields.io/badge/-返回顶部-FFFFFF.svg" title="返回顶部" align="right"/>
 </a>
+
+参考自：https://phyng.com/2024/05/05/ax1800-openwrt.html
